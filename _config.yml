@@ -33,12 +33,12 @@ plugins:
 defaults:
   -
     scope:
-      path: "" #put name of folder you want the values to affect. Empty "" means all folders.
-	  #type: "posts" #type...of pages
+      path: "_posts" #put name of folder you want the values to affect. Empty "" means all folders.
+      #type: "posts" #type...of pages
     values:
         layout: "post"
-		title: "Testing123"
-		permalinks: /:title
+        #title: "Testing123"
+        permalinks: /:title
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
