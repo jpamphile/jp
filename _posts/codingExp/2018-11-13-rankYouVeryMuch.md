@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "rankYouVeryMuch"
+title: "rank.You.Very.Much"
 description: June 2017 - July 2017
 date: 2017-06-01 00:00:00 -0500
 permalink: /:title
