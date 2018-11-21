@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "'Where In the World Is...' - A CLI Adventure Game"
+title: "'Where In the World Is...'      The Adventure Game - CLI"
 description: November 2017 - December 2017
 date: 2017-09-01 00:00:00 -0500
 permalink: /:title
