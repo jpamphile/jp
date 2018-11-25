@@ -25,7 +25,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: PamphileSays
 github_username:  jpamphile
 
-#Spectral Additions - Homepate tiles
+#Spectral Additions - Homeplate tiles
 tiles-source: posts #accepts "posts" or "pages"
 tiles-count: 3
 
