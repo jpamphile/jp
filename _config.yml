@@ -56,7 +56,7 @@ defaults:
 #Spectral Additions - Social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://www.github.com/jpamphile
 gitlab_url:
 googleplus_url:
 instagram_url:
